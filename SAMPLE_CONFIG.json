@@ -1,0 +1,24 @@
+{
+  "ONLY_ADD_IF_AT_LEAST_N_AVAIL_SEATS": 0,
+  "ONLY_ADD_IF_AT_MOST_N_WAITLISTED": 10,
+
+  "MIN_BREAK_BETWEEN_CLASSES": 20,
+
+  "TIME": "8:59a",
+  "MAX_NUMBER_OF_CLASSES_BEFORE_ABOVE_TIME": 5,
+  "LATEST_CLASS_START_TIME": "9:30p",
+
+  "NO_CLASSES_DURING_RANGE": {
+    "F": {
+      "Time": "4:30p-6:30p"
+    },
+    "MWTuThF": {
+      "Time": "11:30a-12:30p"
+    }
+  },
+  "MAX_CLASSES_PER_DAY": 10,
+  "MAX_DAILY_HOURS": 10,
+  "DAILY_HOURS_MEETING_TYPES": ["LE", "DI","SE"],
+
+  "OMIT_INSTRUCTORS": ["Professor 1", "Professor 2"]
+}
