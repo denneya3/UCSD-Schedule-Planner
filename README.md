@@ -35,7 +35,7 @@ Edit the `config.json` file (following the correct JSON formatting) to change th
 Once you are done, run the .exe file to see your possible schedules.
 
 ### Starting and Interpreting:
-1. Run/double-click the `.exe` file
+1. Run/double-click the `main.exe` file
 2. On the left is a list where you can select each schedule combination
 For each class it will display its **Section ID** which you can find on WebReg with CTRL+F after searching for the class to plan/register for it.
 Also `(A NUMBER)` is shown next to this which means **the number of other possible sections that could be swapped in** (in case you can't get into that section) \
