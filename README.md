@@ -2,6 +2,8 @@
 
 This program is designed to help you find your perfect UCSD schedule by **visualizing** all possible combinations of classes based on your desired criteria. It will **NOT** access your UCSD login.
 
+<img src="assets/Preview2.png" alt="Preview" width="50%">
+
 ---
 
 ## Antivirus Warning
