@@ -1,4 +1,4 @@
-## UCSD Schedule Planner
+# UCSD Schedule Planner
 
 This program is designed to help you find your perfect UCSD schedule by **visualizing** all possible combinations of classes based on your desired criteria. It will **NOT** access your UCSD login.
 
@@ -36,7 +36,7 @@ Edit the `config.json` file (following the correct JSON formatting) to change th
 
 Once you are done, run the .exe file to see your possible schedules.
 
-### Starting and Interpreting:
+### Usage:
 1. Run/double-click the `main.exe` file
 2. On the left is a list where you can select each schedule combination
 For each class it will display its **Section ID** which you can find on WebReg with CTRL+F after searching for the class to plan/register for it.
@@ -51,7 +51,7 @@ You can use this fact to see which classes you should **prioritize** during your
 
 ---
 
-## Settings Usage
+## Customization
 The number of combinations is shown at the top of the program.
 
 The `config.json` settings determine which class _**sections**_ could be fit into your schedule. Please take a look at `SAMPLE_CONFIG.json` for reference
