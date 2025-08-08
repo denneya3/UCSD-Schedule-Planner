@@ -1,6 +1,6 @@
 # UCSD Schedule Planner
 
-This program is designed to help you find your perfect UCSD schedule by **visualizing** all possible combinations of classes based on your desired criteria. It will **NOT** access your UCSD login.
+This program is designed to help you find your perfect UCSD schedule by **visualizing** all possible combinations of classes based on your desired criteria. It will **NOT** access your UCSD login. *Last updated: 8/7/2025 at 9:00 PM PT*
 
 <img src="assets/Preview2.png" alt="Preview" width="90%">
 
@@ -59,6 +59,9 @@ You can use this fact to see which classes you should **prioritize** during your
 The number of combinations is shown at the top of the program.
 
 The `config.json` settings determine which class _**sections**_ could be fit into your schedule. Please take a look at `SAMPLE_CONFIG.json` for reference
+
+`MAKE_SURE_THESE_SECTION_IDS_ARE_IN_SCHEDULE` : Use this to filter schedules during your second pass enrollment (after you’ve already registered for ~2 classes). Only schedules that include all section IDs listed here will be shown, but the schedule could also include other sections for your remaining classes.
+Format: `["12345", "23456"]`
 
 `ONLY_ADD_IF_AT_LEAST_N_AVAIL_SEATS` : Only adds the section if there are at least N available seats
 `ONLY_ADD_IF_AT_MOST_N_WAITLISTED` : Only adds the section if there are at most N people waitlisted
