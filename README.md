@@ -1,6 +1,7 @@
-# UCSD Schedule Planner
+# UCSD Schedule Planner (MOVED)
 
-**Uploading a quick video tutorial soon!**
+# https://scheduleplannerucsd.fly.dev/
+**This program is now useable on the above website!**
 
 This program is designed to help you find your perfect UCSD schedule by **visualizing** all possible combinations of classes based on your desired criteria. It will **NOT** access your UCSD login. *Last updated: 8/7/2025 at 10:50 PM PT*
 
